@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="OPD_Plinia_AuthService.MvcApplication" Language="C#" %>
